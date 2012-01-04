@@ -22,7 +22,7 @@
     "socket.io":    "0.8.x",
     "simplesets":   "1.1.x",
     "connect-redis":"1.0.x",
-    "express":      "2.4.x",
+    "express":      "2.5.x",
     "jade":         "0.14.x"
   }
 }
